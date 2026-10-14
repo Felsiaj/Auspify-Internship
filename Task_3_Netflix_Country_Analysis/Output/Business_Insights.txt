@@ -1,0 +1,19 @@
+NETFLIX COUNTRY ANALYSIS — BUSINESS INSIGHTS
+
+1. Top Country:
+The United States ranks first, with 3,240 title-country entries.
+
+2. Second-Highest Country:
+India ranks second, with 1,057 title-country entries.
+
+3. Comparison:
+The United States has 2,183 more title-country entries than India.
+
+4. Percentage Comparison:
+The United States count is approximately 206.53% higher than India's count.
+
+5. Data Limitation:
+Some titles are associated with multiple countries. Therefore, each title-country association is counted separately. A total of 287 titles have unavailable country information, representing approximately 3.27% of the dataset.
+
+6. Conclusion:
+The analysis identifies the countries with the highest representation in the Netflix dataset. The results are presented using a horizontal bar chart for easier comparison.
